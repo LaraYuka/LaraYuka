@@ -1,11 +1,14 @@
-## Olá, eu sou a Lara Sakanaka👋
+## 👋 Olá, eu sou a Lara Sakanaka
 
+🎓 Formação: Análise e Desenvolvimento de Sistemas (Concluído)
 
-- 🌱 Estudando: 3° período de Análise e Desenvolvimneto de Sistemas
-- ✅ Ensio médio: Etec- Ensino médio com habilitação profissional de técnico em desenvolvimento de sistemas
-- ⚡ Programação: Full Stack
-- 📧 Email: lara.sakanaka@gmail.com
-- 💬 Linkedin: https://www.linkedin.com/in/lara-yuka-sakanaka/
+🏫 Ensino Médio: ETEC — Ensino Médio com Habilitação Profissional em Técnico em Desenvolvimento de Sistemas
+
+⚡ Área: Programação Full Stack
+
+📧 Email: lara.sakanaka@gmail.com
+
+💬 LinkedIn: linkedin.com/in/lara-yuka-sakanaka
   
 --> 💖
 
