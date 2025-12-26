@@ -8,7 +8,7 @@
 
 📧 Email: lara.sakanaka@gmail.com
 
-💬 LinkedIn: linkedin.com/in/lara-yuka-sakanaka
+💬 LinkedIn: https://www.linkedin.com/in/lara-yuka-sakanaka/
   
 --> 💖
 
